@@ -12,8 +12,8 @@ factoryRequest/FactoryRequest.java
  factoryRequest.FactoryRequest
 factoryRequest/Post.java
  factoryRequest.Post
-factoryRequest/Patch.java
- factoryRequest.Patch
+runner/MyStepdefs.java
+ runner.MyStepdefs
 runner/Runner.java
  runner.Runner
 utilsJson/JsonHelper.java
@@ -22,13 +22,5 @@ factoryRequest/Get.java
  factoryRequest.Get
 configuration/Config.java
  configuration.Config
-basicRestAssured/CRUDProjectTokenTest.java
- basicRestAssured.CRUDProjectTokenTest
-basicRestAssured/CRUDProjectTest.java
- basicRestAssured.CRUDProjectTest
-basicRestAssured/BasicTest.java
- basicRestAssured.BasicTest
-basicRestAssured/CRUDItemTest.java
- basicRestAssured.CRUDItemTest
-runner/MyStepdefs.java
- runner.MyStepdefs
+factoryRequest/Patch.java
+ factoryRequest.Patch
